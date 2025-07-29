@@ -15,6 +15,12 @@
       "id": "8a2cf53b1a332c4827f45f8bea30953deaadb59b"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/1-year-cd-rates/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/1-year-cd-rates",
+      "id": "70cd57385fdf9c437b4425ffe6586483472bb2f0"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/10-1-arm-vs-30-year-fixed-mortgage/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/10-1-arm-vs-30-year-fixed-mortgage",
@@ -25,6 +31,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/10-year-mortgage-rates",
       "id": "d8bcea260ba5f994ca753be527da1e16d7c8df91"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/100000-cd-earnings/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/100000-cd-earnings",
+      "id": "208ad083018a1c15fded747309b60d7ee0757271"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/15-3-credit-card-hack/",
@@ -79,6 +91,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/3-steps-to-take-if-your-social-security-number-has-been-stolen",
       "id": "f076c1a63e1fbd52bc016fa1ea0fd17817bda551"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/3-year-cd-rates/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/3-year-cd-rates",
+      "id": "b5bfbffd05c0b46dcfe4cb764a0d878b4fb41a11"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/4-things-you-need-to-know-before-getting-a-student-loan",
@@ -187,6 +205,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/5-ways-to-make-the-most-of-your-balance-transfer-card",
       "id": "ceb5114d3a58e8173ae2d81c9abd0b197be1d255"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/6-month-cd-rates/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/6-month-cd-rates",
+      "id": "1f2b3c0c1d24d007ab0aa6b41b480c6798c24716"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/6-month-vs-12-month-car-insurance/",
@@ -1119,10 +1143,28 @@
       "id": "505640ae7183c2e9abc3328564a591a779c2570a"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/author/michelle-tipsword/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/author/michelle-tipsword",
+      "id": "4c2a57090170d8fd79b8389915e1309ff96a8c8c"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/author/peggy-bennett/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/author/peggy-bennett",
+      "id": "be82311a0105d7ac57cbec6796e8be829d648cae"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/author/rod-griffin/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/author/rod-griffin",
       "id": "b4c061b4619e6caad3bff0298348ab48b0db8dee"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/author/samuel-mountjoy/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/author/samuel-mountjoy",
+      "id": "ccc912008971485644dd2951c0c646f8d580a877"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/author/sarah-archambault/",
@@ -1363,6 +1405,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/average-cost-of-travel-insurance",
       "id": "6eb86ed19a7a110216ad981625d7e1a26054ad75"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/average-monthly-social-security-check/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/average-monthly-social-security-check",
+      "id": "130d16434293a543300baa64719c45d353231b2d"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/average-mortgage-rates-by-credit-score/",
@@ -3771,6 +3819,12 @@
       "id": "48cf22b3ff9ba6e0b2da1f41c6cbcec6f3e5b7db"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/car-loan-scams-and-red-flags/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/car-loan-scams-and-red-flags",
+      "id": "c481c1857cf7743310c1d78947eaf7d23f96eedb"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/car-payment-calculator/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/car-payment-calculator",
@@ -4663,6 +4717,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/compare-current-mortgage-rates",
       "id": "cf3075339867e87d3492989f5df010db6e6df186"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/complete-costs-of-buying-home/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/complete-costs-of-buying-home",
+      "id": "33a64e258e22ea81ef99f8fafed398a12ff8a43a"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/comprehensive-vs-collision-insurance/",
@@ -9507,6 +9567,12 @@
       "id": "6f582af206ff07e45b3d6796e8411eff52b3bd50"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/do-you-need-life-insurance-if-you-have-401k/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/do-you-need-life-insurance-if-you-have-401k",
+      "id": "ef18b125c06ba211fdf42f1527dbbc2fae08af31"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/do-you-need-moving-insurance/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/do-you-need-moving-insurance",
@@ -9915,6 +9981,12 @@
       "id": "5e9043523aca00003cf2778ad7dc07ef9134b510"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/does-each-tenant-need-renters-insurance/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/does-each-tenant-need-renters-insurance",
+      "id": "2c24ed7a7711a4ccd0bf9e845c9a8226eb556029"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/does-employer-match-count-toward-401k-limit/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/does-employer-match-count-toward-401k-limit",
@@ -9925,12 +9997,6 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/does-experian-boost-include-auto-insurance",
       "id": "a84ad91d395731f171b6e54ab1a9b97fd059496e"
-    },
-    {
-      "url": "https://www.experian.com/blogs/ask-experian/does-experian-boost-work/",
-      "source": "SITEMAPS",
-      "targetPath": "/blogs/ask-experian/does-experian-boost-work",
-      "id": "7387516bbfdda95c21069d05e21f989948a17384"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/does-filing-for-unemployment-affect-your-credit/",
@@ -9997,6 +10063,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/does-home-insurance-cover-damage-to-vacation-rental-or-hotels",
       "id": "d0238c9652444f40aa74092ee17797da09ee5cc1"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/does-home-insurance-cover-natural-disasters/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/does-home-insurance-cover-natural-disasters",
+      "id": "99872a395f0e3c048285218b0740fd0eafcaf7fb"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/does-home-insurance-cover-termite-damage/",
@@ -10099,6 +10171,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/does-leasing-car-build-credit",
       "id": "0bb5aa167ca3275873eaf2ff6c1120f6bb6163f3"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/does-life-insurance-cover-suicidal-death/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/does-life-insurance-cover-suicidal-death",
+      "id": "76f5931d2df4f60c387ba6030d7c1ff4931464b4"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/does-life-insurance-pay-out-if-you-die-abroad/",
@@ -11205,6 +11283,12 @@
       "id": "ea13cff6a31b7549bd0a49fc860754e67ec828b5"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/home-equity-rates-heloc-vs-home-equity-loan/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/home-equity-rates-heloc-vs-home-equity-loan",
+      "id": "b79d3086ce6b4847f8ca639f9ee0e0f260c20277"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/home-equity-to-buy-second-home/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/home-equity-to-buy-second-home",
@@ -12057,12 +12141,6 @@
       "id": "5751fcd648861c44a06720c05bcb6f7cb8323178"
     },
     {
-      "url": "https://www.experian.com/blogs/ask-experian/how-do-life-insurance-payouts-work/",
-      "source": "SITEMAPS",
-      "targetPath": "/blogs/ask-experian/how-do-life-insurance-payouts-work",
-      "id": "b4780463664b78cf1dc7966b28c9dac619f99e07"
-    },
-    {
       "url": "https://www.experian.com/blogs/ask-experian/how-do-online-loans-work/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/how-do-online-loans-work",
@@ -12487,6 +12565,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/how-does-inflation-affect-credit",
       "id": "79f68f85ac5351f0ac29e6bd1474cfed7b7c7b64"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/how-does-inflation-affect-mortgage-rates/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/how-does-inflation-affect-mortgage-rates",
+      "id": "b4551a4418b304e69a01c236143e45eb454944c5"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/how-does-inflation-impact-credit-card-debt/",
@@ -13281,6 +13365,12 @@
       "id": "59d2103957b1ff7dac9ff86e5fef02be683e0860"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/how-many-evs-are-in-us/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/how-many-evs-are-in-us",
+      "id": "5483f62feabdacc8f2c8a20c97124c1801a75831"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/how-many-hard-inquiries-is-too-many/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/how-many-hard-inquiries-is-too-many",
@@ -13405,6 +13495,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/how-much-can-i-borrow-with-a-personal-loan",
       "id": "6168ab6b5dacd01524e1103813800bd46e79c79b"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/how-much-can-i-borrow-with-heloc/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/how-much-can-i-borrow-with-heloc",
+      "id": "b43967198fdec4fbe79880e0b7a72ad31bc3472b"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/how-much-car-can-i-afford/",
@@ -13825,6 +13921,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/how-much-to-spend-on-a-mortgage-based-on-salary",
       "id": "f698ee504d2a928b04929493a9f7e33f79f02977"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/how-much-will-insurance-go-up-after-accident/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/how-much-will-insurance-go-up-after-accident",
+      "id": "5505d20e96a3874da23c5c3e031fd31eba00c7c6"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/how-much-will-insurance-go-up-after-speeding-ticket/",
@@ -14649,6 +14751,12 @@
       "id": "19fc5654859b61c93d3f4d0ad687b976b8bff0cc"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/how-to-buy-life-insurance-without-medical-exam/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/how-to-buy-life-insurance-without-medical-exam",
+      "id": "00835b642bf7844100bcee23a30f899b1954d1dc"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/how-to-buy-life-insurance/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/how-to-buy-life-insurance",
@@ -15349,6 +15457,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/how-to-file-for-a-tax-extension",
       "id": "2eea93d58dab5c67e2aea91222e112745c5ea86b"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/how-to-file-home-insurance-claim/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/how-to-file-home-insurance-claim",
+      "id": "613b17825a70f2da2b0b9f1d9e60bb35d4547c5e"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/how-to-file-taxes-for-deceased-relative/",
@@ -16651,6 +16765,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/how-to-meet-your-credit-cards-minimum-spend",
       "id": "94d315401eefbcc89c087ae074069bf196658c01"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/how-to-move-money-into-high-yield-savings-account/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/how-to-move-money-into-high-yield-savings-account",
+      "id": "ca6c2b5e2ab3fb9a548c9df7328bddc8eee1db1c"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/how-to-negotiate-a-car-lease/",
@@ -18507,6 +18627,12 @@
       "id": "a3e70a21312ddbe4c8aae13910976348f4795044"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/ira-cd-rates/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/ira-cd-rates",
+      "id": "fee26d95a170725d3b87744b541a105694baea62"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/ira-contribution-rules/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/ira-contribution-rules",
@@ -19617,6 +19743,12 @@
       "id": "f42bf05f98a6dd2445a04bf622ea7b68d7658c95"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/most-popular-cars-and-brands-in-us/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/most-popular-cars-and-brands-in-us",
+      "id": "e0db7aac57516f9c604cdd08b21396d9b9aea331"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/most-popular-electric-vehicles/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/most-popular-electric-vehicles",
@@ -20011,6 +20143,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/personal-vs-commerical-car-insurance",
       "id": "a6d17e9f1afbe922a86c51c471a31c9bc8b223c0"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/pet-insurance-for-multiple-pets/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/pet-insurance-for-multiple-pets",
+      "id": "8623437fc70d58c442162617bbd305e1a3eddb2b"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/pet-insurance-mistakes-to-avoid/",
@@ -22501,6 +22639,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/smallest-amount-you-can-borrow-with-home-equity-loan-heloc",
       "id": "7f7428f6bb367b25d19fce9bd55d859be4245409"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/smart-home-devices-that-could-lower-insurance/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/smart-home-devices-that-could-lower-insurance",
+      "id": "d95983e0e4bac8ac1233e7dc059be8aeec775dd0"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/smart-money-moves-single-parents-should-make/",
@@ -25305,6 +25449,12 @@
       "id": "9bb8df16e8293076a2f5425099ec6a1981b61447"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/what-happens-when-term-life-insurance-expires/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/what-happens-when-term-life-insurance-expires",
+      "id": "37ced02f054aac1a9c4eaf098018f598d42ee1e4"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/what-happens-when-you-extend-loan-term/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/what-happens-when-you-extend-loan-term",
@@ -26625,6 +26775,12 @@
       "id": "2d5462002bdbcf7ee11ed47385692ddb03b8ea4c"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/what-is-average-stock-market-return/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/what-is-average-stock-market-return",
+      "id": "497ed6efe068d88a6a8bc3ad0e82315dd3e736e0"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/what-is-backdoor-roth-ira",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/what-is-backdoor-roth-ira",
@@ -27589,6 +27745,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/what-is-escrow-shortage",
       "id": "2b43ed0754108684de972989e0b5791be442f345"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/what-is-escrow-surplus/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/what-is-escrow-surplus",
+      "id": "e1c5f5c3197d29849be56d6b1ee545e4fc48a79b"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/what-is-esg-investing/",
@@ -28725,6 +28887,12 @@
       "id": "4e7941a6b7188915a56cf1a089050265be228e0f"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/what-is-paze/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/what-is-paze",
+      "id": "230f14b9651420f1f9d53a01fb430c0209624726"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/what-is-peer-to-peer-lending/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/what-is-peer-to-peer-lending",
@@ -28939,6 +29107,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/what-is-quishing",
       "id": "fe39645907202a59428bf1c6ec674cfbc5aee53f"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/what-is-rainy-day-fund/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/what-is-rainy-day-fund",
+      "id": "5980b2e243f7656492a2d40768807853582805b4"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/what-is-ransomware/",
@@ -30333,6 +30507,12 @@
       "id": "4c668076280864e4167a98364966a539db16b221"
     },
     {
+      "url": "https://www.experian.com/blogs/ask-experian/what-to-do-if-rental-property-is-damaged/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/what-to-do-if-rental-property-is-damaged",
+      "id": "f1c99fb99b6e80a21b70a02e17cf9c08421e0a37"
+    },
+    {
       "url": "https://www.experian.com/blogs/ask-experian/what-to-do-if-someone-asks-to-borrow-money/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/what-to-do-if-someone-asks-to-borrow-money",
@@ -30373,6 +30553,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/ask-experian/what-to-do-if-you-cant-afford-your-car-payments",
       "id": "0f16c43e4a4fe936302278406a34a53b5c2efa4b"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/what-to-do-if-you-cant-find-car-insurance/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/ask-experian/what-to-do-if-you-cant-find-car-insurance",
+      "id": "44edc18226b24a13cf5d2208761fa4e6d7b9555e"
     },
     {
       "url": "https://www.experian.com/blogs/ask-experian/what-to-do-if-you-cant-pay-credit-card-bills/",
@@ -43209,6 +43395,12 @@
       "id": "11079d419d0504a86bb21f3f75994d8f4f8f89b7"
     },
     {
+      "url": "https://www.experian.com/blogs/insights/breaking-down-silos-creating-a-unified-data-strategy-in-financial-services/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/breaking-down-silos-creating-a-unified-data-strategy-in-financial-services",
+      "id": "48cd4e14edaecb7797349ca16d1f309cebeca040"
+    },
+    {
       "url": "https://www.experian.com/blogs/insights/brighter-customer-engagement-for-utilities/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/brighter-customer-engagement-for-utilities",
@@ -46783,6 +46975,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/frictionless-leasing",
       "id": "c810c3b596948a0fca8ded4eeeeb09c26b96a618"
+    },
+    {
+      "url": "https://www.experian.com/blogs/insights/from-data-to-decisions-how-financial-institutions-can-unlock-value-through-analytics/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/from-data-to-decisions-how-financial-institutions-can-unlock-value-through-analytics",
+      "id": "4073768adbae47032a685c23a937df1bb74a1b82"
     },
     {
       "url": "https://www.experian.com/blogs/insights/ftc-extends-red-flags-rule-enforcement-deadlineagain/",
@@ -55719,6 +55917,12 @@
       "id": "0912ba40d173b3fdcad4bfb797eb138f6389b685"
     },
     {
+      "url": "https://www.experian.com/blogs/insights/tag/data-management-2/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/data-management-2",
+      "id": "ac5027d891d39563c6e61ec6c3aef9402357a21f"
+    },
+    {
       "url": "https://www.experian.com/blogs/insights/tag/data-management/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/data-management",
@@ -55761,6 +55965,12 @@
       "id": "4ea6b9c98070f9a59c6bfc57a33e51f646798e82"
     },
     {
+      "url": "https://www.experian.com/blogs/insights/tag/data-scientist/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/data-scientist",
+      "id": "f667a2f79bc7dc5103fb5746fb5f94c82dae1479"
+    },
+    {
       "url": "https://www.experian.com/blogs/insights/tag/data-security/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/data-security",
@@ -55771,6 +55981,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/data-services",
       "id": "bcda5cf4c02980ada5381df0d016307be06b6cc5"
+    },
+    {
+      "url": "https://www.experian.com/blogs/insights/tag/data-silos/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/data-silos",
+      "id": "f8e1047efdb16032a0e3a625f6ba0e4b0b4328c4"
     },
     {
       "url": "https://www.experian.com/blogs/insights/tag/data-solutions/",
@@ -56157,6 +56373,12 @@
       "id": "e737bab9155322ab19113387f354f7ae8493e923"
     },
     {
+      "url": "https://www.experian.com/blogs/insights/tag/descriptive-analytics/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/descriptive-analytics",
+      "id": "e15388f2c97a08239204da46e267e3eaef069bcf"
+    },
+    {
       "url": "https://www.experian.com/blogs/insights/tag/device-authentication/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/device-authentication",
@@ -56197,6 +56419,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/dfast",
       "id": "80eeaca477c137698fbf718badaa6af8e9bd6f36"
+    },
+    {
+      "url": "https://www.experian.com/blogs/insights/tag/diagnostic-analytics/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/diagnostic-analytics",
+      "id": "0d95fbcde4275f552684e2a87925628a40c73087"
     },
     {
       "url": "https://www.experian.com/blogs/insights/tag/diane-swonk/",
@@ -56929,6 +57157,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/expanded-fcra-regulated-data",
       "id": "2a2d694238677844aaa4c05aaab6bc6a8fc3f42d"
+    },
+    {
+      "url": "https://www.experian.com/blogs/insights/tag/experian-ascend-platform/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/experian-ascend-platform",
+      "id": "8ff9a92cc65098a1e61f6ce34c3156e2facbc19c"
     },
     {
       "url": "https://www.experian.com/blogs/insights/tag/experian-ascend-technology-platform/",
@@ -60765,6 +60999,12 @@
       "id": "d257e1df52cefb52dbaffafcc707203aa40f2416"
     },
     {
+      "url": "https://www.experian.com/blogs/insights/tag/otp-bot/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/otp-bot",
+      "id": "aa7c80599bf9b9e6e68c55ef5d27d5d4cd9a9956"
+    },
+    {
       "url": "https://www.experian.com/blogs/insights/tag/otp/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/otp",
@@ -62421,6 +62661,12 @@
       "id": "bb91ae8c100243005c3b252601cbfddc7c70930b"
     },
     {
+      "url": "https://www.experian.com/blogs/insights/tag/silos/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/silos",
+      "id": "f767a4e96795e71d506c51c02d2ac4c819b5d0b8"
+    },
+    {
       "url": "https://www.experian.com/blogs/insights/tag/silverado/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/silverado",
@@ -63283,6 +63529,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/tag/unfreeze-credit",
       "id": "382fb217f99ba3dca54dd092a80ef9b22b3658dc"
+    },
+    {
+      "url": "https://www.experian.com/blogs/insights/tag/unified-data-strategy/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/tag/unified-data-strategy",
+      "id": "b7b1479152d571959c2d0d07335ae970185d9970"
     },
     {
       "url": "https://www.experian.com/blogs/insights/tag/universe-expansion/",
@@ -65025,12 +65277,6 @@
       "id": "2347c50e4fb99671e523e66ecf0b5f48daa9bdd9"
     },
     {
-      "url": "https://www.experian.com/blogs/insights/understanding-consumers-credit-behavior/",
-      "source": "SITEMAPS",
-      "targetPath": "/blogs/insights/understanding-consumers-credit-behavior",
-      "id": "5488195004342cd0fde9b493e410e7e9333b4248"
-    },
-    {
       "url": "https://www.experian.com/blogs/insights/understanding-deposit-account-losses-through-analytics-v1/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/understanding-deposit-account-losses-through-analytics-v1",
@@ -65635,6 +65881,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/insights/what-is-alternative-credit-data",
       "id": "d69c868e530ee588f816c82386df382623502974"
+    },
+    {
+      "url": "https://www.experian.com/blogs/insights/what-is-an-otp-bot/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/insights/what-is-an-otp-bot",
+      "id": "fc5db226bbfc7d883dc11a775c19c125007d508e"
     },
     {
       "url": "https://www.experian.com/blogs/insights/what-is-autocheck-buyback-protection/",
@@ -66531,12 +66783,6 @@
       "id": "8ea902b3572adada84155552bb3417a5d7b98132"
     },
     {
-      "url": "https://www.experian.com/blogs/marketing-forward/data-enrichment-a4-advertising/",
-      "source": "SITEMAPS",
-      "targetPath": "/blogs/marketing-forward/data-enrichment-a4-advertising",
-      "id": "a86bf2c0ad831bb3342bc2f62ec72beae2fa980f"
-    },
-    {
       "url": "https://www.experian.com/blogs/marketing-forward/data-ownership-merkle/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/marketing-forward/data-ownership-merkle",
@@ -67261,6 +67507,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/marketing-forward/social-determinants-of-health",
       "id": "7975368288a4edafd3f39eb5016ff4e33956ff82"
+    },
+    {
+      "url": "https://www.experian.com/blogs/marketing-forward/solving-the-multiscreen-challenge-how-experian-helps-optimum-media-connect-campaigns-across-channels/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/marketing-forward/solving-the-multiscreen-challenge-how-experian-helps-optimum-media-connect-campaigns-across-channels",
+      "id": "67f170fdd0857720db4c36b56e63bdb7e462225d"
     },
     {
       "url": "https://www.experian.com/blogs/marketing-forward/spring-cleaning-your-marketing-strategy-2025/",
@@ -72393,6 +72645,12 @@
       "id": "da28bfd16a6500bf5f48d6ef9478b4bfdb9dae99"
     },
     {
+      "url": "https://www.experian.com/blogs/news/2025/07/25/experian-earns-top-scores-for-disability-inclusion/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/news/2025/07/25/experian-earns-top-scores-for-disability-inclusion",
+      "id": "b2aebf51329b516b48232ccdedd9e5d6389272df"
+    },
+    {
       "url": "https://www.experian.com/blogs/news/58917-2/",
       "source": "SITEMAPS",
       "targetPath": "/blogs/news/58917-2",
@@ -74329,6 +74587,12 @@
       "source": "SITEMAPS",
       "targetPath": "/blogs/news/about/holiday-budget",
       "id": "c1c965416107ec9ea75719d97427cbcdc059d3aa"
+    },
+    {
+      "url": "https://www.experian.com/blogs/news/about/holiday-budgeting-early/",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/news/about/holiday-budgeting-early",
+      "id": "542a894c5013ff743d782aa17645e7ffacce1c27"
     },
     {
       "url": "https://www.experian.com/blogs/news/about/holiday-hangover/",
@@ -84304,10 +84568,6 @@
       "status": "301 Moved Permanently Redirect: https://www.experian.com/blogs/ask-experian/rent-to-own-homes/"
     },
     {
-      "url": "https://www.experian.com/blogs/ask-experian/should-i-pay-off-my-mortgage-early/",
-      "status": "301 Moved Permanently Redirect: https://www.experian.com/blogs/ask-experian/should-i-pay-off-mortgage-early/"
-    },
-    {
       "url": "https://www.experian.com/blogs/ask-experian/do-i-need-real-estate-agent-to-buy-house/",
       "status": "301 Moved Permanently Redirect: https://www.experian.com/blogs/ask-experian/should-you-buy-home-without-real-estate-agent/"
     },
@@ -84406,6 +84666,10 @@
     {
       "url": "https://www.experian.com/blogs/news/category/insights/",
       "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/does-experian-boost-work/",
+      "status": "500 Internal Server Error"
     },
     {
       "url": "https://www.experian.com/sitemap.xml",
